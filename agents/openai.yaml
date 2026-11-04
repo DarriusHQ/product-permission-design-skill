@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品线权限体系设计"
+  short_description: "梳理产品角色、功能和数据范围，形成可评审的权限矩阵"
+  default_prompt: "使用 $product-permission-design 结合产品资料梳理角色、数据范围和权限矩阵。"
